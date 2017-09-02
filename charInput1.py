@@ -1,4 +1,4 @@
-#This program asks the user to enter their name and their age.
+#Ask the user to enter their name and their age.
 #It then prints out a message notifying them when they will turn 100 years old. 
 
 name = raw_input('Please Enter Your Name: ')
